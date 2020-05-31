@@ -1,0 +1,3 @@
+WSEI. Projekt informatyczny. Diakov Viktor. Celem projektu - jest powstanie sieci sklepu internetowego. 
+Firma wspolpracuje z producentem z Stanow Zjednocznonych. 
+Producent produkuje odziez, firma zajmuje sie dostawa odziezy do Polskiej i ja sprzedaza.
